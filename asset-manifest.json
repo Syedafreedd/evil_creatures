@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evil_creatures/static/css/main.340669d6.css",
+    "main.js": "/evil_creatures/static/js/main.60b1b3e5.js",
+    "static/js/787.5c72b9f4.chunk.js": "/evil_creatures/static/js/787.5c72b9f4.chunk.js",
+    "index.html": "/evil_creatures/index.html",
+    "main.340669d6.css.map": "/evil_creatures/static/css/main.340669d6.css.map",
+    "main.60b1b3e5.js.map": "/evil_creatures/static/js/main.60b1b3e5.js.map",
+    "787.5c72b9f4.chunk.js.map": "/evil_creatures/static/js/787.5c72b9f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340669d6.css",
+    "static/js/main.60b1b3e5.js"
+  ]
+}
